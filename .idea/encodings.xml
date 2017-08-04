@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/softconfig/activity/PmwsConfigActivity.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/cell_bottom.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/tab.xml" charset="GBK" />
+  </component>
+</project>
